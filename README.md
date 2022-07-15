@@ -1,5 +1,9 @@
 # Arch  
 
+Config file goes in ~/.config/i3/config  
+Alt+Shift to toggle keyboard layout  
+i3-ref for i3 usage  
+
 OS: Arch
 
 Terminal: uxvrt
@@ -31,5 +35,3 @@ ghidra
 zap proxy  
 ida-free  
 pince-git
-
-Alt+Shift to toggle keyboard layout
