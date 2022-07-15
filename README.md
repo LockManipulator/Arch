@@ -16,4 +16,18 @@ File manager: midnight commander
 
 Process viewer: htop
 
-Also, pywal + fehbg to automatically update terminal colors to match background!
+pywal + fehbg to automatically update terminal colors to match background.
+
+wireshark
+gobuster
+nmap
+hydra
+john the ripper
+nikto
+hashcat
+sqlmap
+netcat
+ghidra
+zap proxy
+ida-free
+pince-git
