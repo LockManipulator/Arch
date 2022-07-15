@@ -18,7 +18,7 @@ Audio visualizer: cli-visualizer
 
 File manager: midnight commander
 
-Process viewer: htop
+Process viewer: htop/gotop-bin
 
 pywal + fehbg to automatically update terminal colors to match background.
 
