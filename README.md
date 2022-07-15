@@ -1,4 +1,4 @@
-# Arch config files
+# Arch  
 
 OS: Arch
 
@@ -31,3 +31,5 @@ ghidra
 zap proxy  
 ida-free  
 pince-git
+
+Alt+Shift to toggle keyboard layout
