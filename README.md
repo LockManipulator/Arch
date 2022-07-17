@@ -17,7 +17,7 @@ Music player: musikcube
 
 Audio visualizer: cli-visualizer
 
-File manager: midnight commander
+File manager: midnight commander/nemo
 
 Process viewer: htop/gotop-bin
 
