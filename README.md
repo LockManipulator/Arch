@@ -23,6 +23,8 @@ Process viewer: htop/gotop-bin
 
 pywal + fehbg to automatically update terminal colors to match background.
 
+Standard
+--------
 wireshark  
 gobuster  
 nmap  
@@ -36,3 +38,14 @@ ghidra
 zap proxy  
 ida-free  
 pince-git
+
+Steganography
+-------------
+steghide
+binwalk
+exiftool
+
+Forensics
+---------
+sleuthkit/autopsy
+rifiuti2
