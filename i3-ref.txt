@@ -1,0 +1,56 @@
+BASICS
+------
+mod+ENTER	New terminal
+mod+j		Focus left
+mod+k		Focus down
+mod+l		Focus up
+mod+;		Focus right
+mod+SPACE	Toggle focus mode
+
+
+MOVING WINDOWS
+--------------
+mod+SHIFT+j	Move left
+mod+SHIFT+k	Move down
+mod+SHIFT+l	Move up
+mod+SHIFT+;	Move right
+mod +r		Resize mode (arrow keys only to use)
+
+MODIFYING WINDOWS
+-----------------
+mod+f		Toggle fullscreen
+mod+v		Split vertically
+mod+h		Split horizontally
+mod+r		Resize mode
+
+
+LAYOUT
+------
+mod+e		Default
+mod+s		Stacking
+mod+w		Tabbed
+
+
+FLOATING
+--------
+mod+SHIFT+SPACE		Toggle floating
+mod+LEFT_CLICK		Drag floating
+
+
+WORKSPACES
+----------
+mod+0-9		Switch
+mod+SHIFT+0-9	Move window
+
+
+OPEN/CLOSE
+----------
+mod+d		Open app launcher
+mod+SHIFT+q	Kill window
+
+
+RESTART/EXIT
+------------
+mod+SHIFT+c	Reload config file
+mod+SHIFT+r	Restart i3
+mod+SHIFT+e	Exit
