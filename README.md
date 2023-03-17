@@ -38,14 +38,9 @@ ghidra
 zap proxy  
 ida-free  
 pince-git
-
-Steganography
--------------
+aircrack-ng
 steghide
 binwalk
 exiftool
-
-Forensics
----------
 sleuthkit/autopsy  
 rifiuti2
