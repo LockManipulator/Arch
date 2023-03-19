@@ -37,10 +37,10 @@ netcat
 ghidra  
 zap proxy  
 ida-free  
-pince-git
-aircrack-ng
-steghide
-binwalk
-exiftool
+pince-git  
+aircrack-ng  
+steghide  
+binwalk  
+exiftool  
 sleuthkit/autopsy  
 rifiuti2
