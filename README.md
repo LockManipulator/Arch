@@ -48,7 +48,7 @@ rifiuti2
 
 Sublime text:
 
-sudo apt-get install wireshark nmap nikto hashcat sqlmap netcat aircrack-ng binwalk exiftool curl flameshot
+sudo apt-get install wireshark nmap nikto hashcat sqlmap netcat aircrack-ng binwalk exiftool curl flameshot net-tools
 
 echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
 
