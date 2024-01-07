@@ -23,6 +23,9 @@ Process viewer: htop/gotop-bin
 
 pywal + fehbg to automatically update terminal colors to match background.
 
+
+flameshot
+
 Standard
 --------
 wireshark  
@@ -44,3 +47,17 @@ binwalk
 exiftool  
 sleuthkit/autopsy  
 rifiuti2
+
+Sublime text:
+
+sudo apt-get install wireshark nmap nikto hashcat sqlmap netcat aircrack-ng binwalk exiftool curl
+
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+
+sudo apt-get update
+
+sudo apt-get install sublime-text
+
+Metasploit:
+
+curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && chmod 755 msfinstall && ./msfinstall
